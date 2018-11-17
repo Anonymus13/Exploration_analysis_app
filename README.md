@@ -7,7 +7,7 @@ This is a web application builded up in Shiny that performs an initial explorati
 These are the extracted variables to work with. Initially is "Agriculture" in both cases, but can be modified to any other variable.
 
 ### Fitted line
-A line is fitted to the distribution based on the method selected by the user. The default method is "auto". More information could be found here:https://ggplot2.tidyverse.org/reference/geom_smooth.html.
+A line is fitted to the distribution based on the method selected by the user. The default method is "auto". More information could be found here: https://ggplot2.tidyverse.org/reference/geom_smooth.html.
 ### Color variable
 For a third-dimension exploration an additional variable can be included in the plot as color, this may be specially useful for factor variables.
 
