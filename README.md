@@ -1,4 +1,4 @@
-# Exploration_analysis_tool_app
+# Exploration_analysis_app
 ## Summary
 This is a web application builded up in Shiny that performs an initial exploration of the swiss r-dataset. It basically uses two variables, a predictor and a response variables, selected by the user, plots their relation and their correlation.
 
